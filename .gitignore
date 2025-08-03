@@ -1,0 +1,41 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+virtualenv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache
+.coverage
+.tox
+.nox
+*.orig
+*.log
+
+# VS Code & JetBrains
+.idea/
+*.iml
+*.iws
+.vscode/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# Database (optional: only if you want to commit initial DB)
+stockflow.db
+*.sqlite3
+
+# OS
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
